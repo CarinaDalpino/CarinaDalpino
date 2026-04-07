@@ -1,20 +1,21 @@
 # 👋 Olá, eu sou a Carina Dalpino!
 
 💼 **Data Analyst em formação**  
-📊 SQL | Power BI | Python | JavaScript  
-⚙️ Node.js | Docker  
+📊 SQL | Power BI | Python  
+⚙️ JavaScript | Node.js | Docker  
+🌐 HTML | CSS  
 🏥 Experiência com sistemas na área da saúde (Tasy e MV)  
 
 ---
 
 ## 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, com atuação na área da saúde, em transição para a área de **Análise de Dados**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência na área da saúde e em transição para **Análise de Dados**.
 
-Tenho experiência como Analista de Cadastro, com foco em análise de dados para geração de insights estratégicos e otimização de processos.
+Atuo como Analista de Cadastro, com foco em análise de dados para geração de insights estratégicos e otimização de processos.
 
-Utilizo ferramentas como **SQL, Power BI e Python** para transformar dados em informações relevantes que apoiam a tomada de decisão.
+Utilizo **SQL, Power BI e Python** para transformar dados em informações relevantes que apoiam a tomada de decisão.
 
-Possuo perfil analítico, foco em resultados e estou em constante evolução para desenvolver soluções que aumentem a eficiência operacional.
+Tenho perfil analítico, foco em resultados e busco constantemente desenvolver soluções que aumentem a eficiência operacional.
 
 ---
 
@@ -26,10 +27,16 @@ Possuo perfil analítico, foco em resultados e estou em constante evolução par
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### ⚙️ Desenvolvimento
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 💻 Desenvolvimento
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 

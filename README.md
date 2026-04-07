@@ -3,7 +3,7 @@
 💼 **Data Analyst em formação**  
 📊 SQL | Power BI | Python | JavaScript  
 ⚙️ Node.js | Docker  
-🏥 Experiência com sistemas na área da saúde (Tasy)  
+🏥 Experiência com sistemas na área da saúde (Tasye MV)  
 
 ---
 

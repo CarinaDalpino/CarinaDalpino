@@ -40,7 +40,11 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 ![HTTPS](https://img.shields.io/badge/HTTPS-Seguro%20SSL-green?style=for-the-badge)
 
 ### ⚙️ Infraestrutura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ⚙️ Infraestrutura
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
+![On-Premises](https://img.shields.io/badge/On--Premises-6C757D?style=for-the-badge&logo=server&logoColor=white)
+![Hospedagem Compartilhada](https://img.shields.io/badge/Hospedagem%20Compartilhada-17A2B8?style=for-the-badge&logo=apache&logoColor=white)
+![Máquinas Virtuais](https://img.shields.io/badge/M%C3%A1quinas%20Virtuais-FF6600?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 
 ---

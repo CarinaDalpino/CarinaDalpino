@@ -71,7 +71,6 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 ---
 
 🔹 **Business Intelligence** Dashboards estratégicos convertendo regras de negócio em decisões.
----
 
 ## 📈 Estatísticas do GitHub
 

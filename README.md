@@ -5,7 +5,7 @@
 ⚙️ JavaScript | Node.js | Docker  
 🌐 HTML | CSS  
 🏥 Experiência com sistemas na área da saúde (Tasy e MV)  
-![GitHub](https://img.shields.io/badge/GitHub-CarinaDalpino-181717?style=for-the-badge&logo=github)
+
 
 ---
 
@@ -17,6 +17,8 @@ Atuo como Analista de Cadastro, com foco em análise de dados para geração de 
 Utilizo **SQL, Power BI e Python** para transformar dados em informações relevantes que apoiam a tomada de decisão.
 
 Tenho perfil analítico, foco em resultados e busco constantemente desenvolver soluções que aumentem a eficiência operacional.
+
+![GitHub](https://img.shields.io/badge/GitHub-CarinaDalpino-181717?style=for-the-badge&logo=github)
 
 ---
 

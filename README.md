@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou a Carina Dalpino!
 
+![GitHub](https://img.shields.io/badge/GitHub-CarinaDalpino-181717?style=for-the-badge&logo=github)
+
+Sou estudante de Análise e Desenvolvimento de Sistemas...
+
 💼 **Data Analyst em formação**  
 📊 SQL | Power BI | Python  
 ⚙️ JavaScript | Node.js | Docker  
@@ -8,8 +12,6 @@
 
 ---
 ## 🚀 Sobre mim
-
-![GitHub](https://img.shields.io/badge/GitHub-CarinaDalpino-181717?style=for-the-badge&logo=github)
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência na área da saúde e em transição para **Análise de Dados**.
 

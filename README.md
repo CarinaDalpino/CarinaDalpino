@@ -68,7 +68,7 @@ Exploração, limpeza e visualização de dados com Pandas e Matplotlib.
 🔹 **Dashboards no Power BI**  
 Criação de relatórios interativos com indicadores estratégicos para apoio à decisão.
 
-🔹 **Consultas SQL**  
+🔹 **SQL**  
 Desenvolvimento de queries para extração, tratamento e análise de dados.
 
 ---

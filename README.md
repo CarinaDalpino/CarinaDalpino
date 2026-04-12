@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou a Carina Dalpino!
 
-💼 **Data Analyst em formação**  
-📊 SQL | Power BI | Python  
+💼 **Data Analyst em formação** 📊 SQL | Power BI | Python  
 ⚙️ JavaScript | Node.js | Docker  
 🌐 HTML | CSS  
 🏥 Experiência com sistemas na área da saúde (Tasy e MV)  
@@ -18,6 +17,16 @@ Utilizo **SQL, Power BI e Python** para transformar dados em informações relev
 Tenho perfil analítico, foco em resultados e busco constantemente desenvolver soluções que aumentem a eficiência operacional.
 
 ---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 📊 Dados
@@ -55,41 +64,31 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
 </p>
 
+---
+
 ## 📊 Projetos em Destaque
 
-🔹 **Análise de Dados com Python**  
-Exploração, limpeza e visualização de dados com Pandas e Matplotlib.
+🔹 **Análise de Dados com Python** Exploração, limpeza e visualização de dados com Pandas e Matplotlib.
 
-🔹 **Dashboards no Power BI**  
-Criação de relatórios interativos com indicadores estratégicos para apoio à decisão.
+🔹 **Dashboards no Power BI** Criação de relatórios interativos com indicadores estratégicos para apoio à decisão.
 
-🔹 **Consultas SQL**  
-Desenvolvimento de queries para extração, tratamento e análise de dados.
+🔹 **Consultas SQL** Desenvolvimento de queries para extração, tratamento e análise de dados.
 
 ---
 
-## 📊 Estatísticas e Troféus
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CarinaDalpino&theme=radical)
 
 ---
 
@@ -104,7 +103,7 @@ Desenvolvimento de queries para extração, tratamento e análise de dados.
 ## 📫 Contato
 
 📧 Email: carina.santos22@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/carina-santos-112a8bba  
+🔗 LinkedIn: [Carina Santos](https://www.linkedin.com/in/carina-santos-112a8bba)
 
 ---
 

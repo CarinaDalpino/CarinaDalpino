@@ -60,7 +60,7 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=radical)
 

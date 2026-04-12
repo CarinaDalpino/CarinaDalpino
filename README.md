@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-CarinaDalpino-181717?style=for-the-badge&logo=github)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:630d16,100:b91d73&height=180&section=header&text=Carina%20Dalpino&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20%7C%20ADS&descSize=22&descAlignY=75&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:f472b6&height=180&section=header&text=Carina%20Dalpino&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20%7C%20ADS&descSize=22&descAlignY=75&descColor=ffffff" />
 </p>
 
 💼 **Data Analyst em formação**  

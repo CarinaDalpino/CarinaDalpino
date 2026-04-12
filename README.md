@@ -76,6 +76,11 @@ Desenvolvimento de queries para extração, tratamento e análise de dados.
 
 ---
 
+## 🏆 Minhas Conquistas
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=rosepine&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🔥 Sequência de Contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CarinaDalpino&theme=radical)

@@ -18,11 +18,18 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Estatísticas e Troféus
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -76,22 +83,6 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📚 Em evolução
 - Análise exploratória de dados (EDA)
 - Modelagem de dados
@@ -103,7 +94,7 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 ## 📫 Contato
 
 📧 Email: carina.santos22@gmail.com  
-🔗 LinkedIn: [Carina Santos](https://www.linkedin.com/in/carina-santos-112a8bba)
+🔗 LinkedIn: https://www.linkedin.com/in/carina-santos-112a8bba  
 
 ---
 

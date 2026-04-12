@@ -6,7 +6,6 @@
 🌐 HTML | CSS  
 🏥 Experiência com sistemas na área da saúde (Tasy e MV)  
 
-
 ---
 
 ## 🚀 Sobre mim
@@ -18,10 +17,7 @@ Utilizo **SQL, Power BI e Python** para transformar dados em informações relev
 
 Tenho perfil analítico, foco em resultados e busco constantemente desenvolver soluções que aumentem a eficiência operacional.
 
-![GitHub](https://img.shields.io/badge/GitHub-CarinaDalpino-181717?style=for-the-badge&logo=github)
-
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 📊 Dados
@@ -59,30 +55,25 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
 </p>
 
----
+## 📊 Projetos em Destaque
+
+🔹 **Análise de Dados com Python**  
+Exploração, limpeza e visualização de dados com Pandas e Matplotlib.
+
+🔹 **Dashboards no Power BI**  
+Criação de relatórios interativos com indicadores estratégicos para apoio à decisão.
+
+🔹 **Consultas SQL**  
+Desenvolvimento de queries para extração, tratamento e análise de dados.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight" width="400" />
-</p>
+![Carina GitHub stats](https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=tokyonight" width="300" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" width="400" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&no-bg=true" />
-</p>
-
----
 ---
 
 ## 🔥 Sequência de Contribuições

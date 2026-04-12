@@ -79,15 +79,15 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---

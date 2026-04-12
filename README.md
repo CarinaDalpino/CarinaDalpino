@@ -62,14 +62,18 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 
 ## 📊 Projetos em Destaque
 
-🔹 **Engenharia de Dados & SQL** Modelagem, arquitetura e automação de bancos de dados em larga escala.
+🔹 **Engenharia de Dados & SQL** 
+Modelagem, arquitetura e automação de bancos de dados em larga escala.
 
 
-🔹 **Automação com Python** Desenvolvimento de scripts para ETL e otimização de fluxos operacionais.
+🔹 **Automação com Python** 
+Desenvolvimento de scripts para ETL e otimização de fluxos operacionais.
 
 
-🔹 **Business Intelligence** Dashboards estratégicos convertendo regras de negócio em decisões.
+🔹 **Business Intelligence** 
+Dashboards estratégicos convertendo regras de negócio em decisões.
 
+---
 
 ## 📈 Estatísticas do GitHub
 

@@ -68,11 +68,22 @@ Desenvolvimento de queries para extração, tratamento e análise de dados.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas e Troféus
 
-![Carina GitHub stats](https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 

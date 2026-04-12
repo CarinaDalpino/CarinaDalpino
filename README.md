@@ -61,25 +61,28 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 
 ---
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarinaDalpino&show_icons=true&theme=tokyonight" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=CarinaDalpino&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=CarinaDalpino&theme=tokyonight" width="400" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CarinaDalpino&theme=tokyonight&column=8&no-bg=true" />
 </p>
 
+---
 ---
 
 ## 🔥 Sequência de Contribuições

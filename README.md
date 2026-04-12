@@ -62,14 +62,14 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
 
 ## 📊 Projetos em Destaque
 
-🔹 **Análise de Dados com Python**  
-Exploração, limpeza e visualização de dados com Pandas e Matplotlib.
+🔹 **Engenharia de Dados & SQL**
+Modelagem, arquitetura e automação de bancos de dados em larga escala.
 
-🔹 **Dashboards no Power BI**  
-Criação de relatórios interativos com indicadores estratégicos para apoio à decisão.
+🔹 **Automação com Python**
+Desenvolvimento de scripts para ETL e otimização de fluxos operacionais.
 
-🔹 **SQL**  
-Desenvolvimento de queries para extração, tratamento e análise de dados.
+🔹 **Business Intelligence**
+Dashboards estratégicos convertendo regras de negócio em decisões.
 
 ---
 

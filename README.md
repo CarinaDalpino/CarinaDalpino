@@ -53,8 +53,7 @@ Tenho perfil analítico, foco em resultados e busco constantemente desenvolver s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/000000" width="40"/>
-</p>
+  <img src="https://cdn.simpleicons.org/amazonaws" width="40"/>
 
 ## 📊 Projetos em Destaque
 

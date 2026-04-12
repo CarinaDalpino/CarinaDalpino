@@ -5,6 +5,7 @@
 ⚙️ JavaScript | Node.js | Docker  
 🌐 HTML | CSS  
 🏥 Experiência com sistemas na área da saúde (Tasy e MV)  
+![GitHub](https://img.shields.io/badge/GitHub-CarinaDalpino-181717?style=for-the-badge&logo=github)
 
 ---
 

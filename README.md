@@ -97,7 +97,7 @@ Dashboards estratégicos convertendo regras de negócio em decisões.
 
 ## 📫 Contato
 
-📧 Email: carina.santos22@gmail.com  
+📧 Email: carina.g.santos22@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/carina-santos-112a8bba  
 
 ---
